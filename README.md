@@ -1,3 +1,5 @@
+Cars are Fascinating but choosing which one to pick can be not-so-fascinating task. I have got you covered! 🚀
+Presenting my Data Analysis on cars of different brands with their relevant features making it easy for you to choose which one to use.
 By using Jupyter Notebook, i have used the data of cars of different brands describing the following :
 - Mileage
 - Price
